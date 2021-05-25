@@ -6,6 +6,10 @@ class Circle{
   
   get diameter(){}
   
+  get diameter(){}
+  
+  get diameter(){}
+  
   
   
 }
