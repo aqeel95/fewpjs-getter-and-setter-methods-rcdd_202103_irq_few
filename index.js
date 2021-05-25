@@ -13,7 +13,11 @@ class Circle{
   return  this.diameter/2
   }
   
+  
   get circumference(){
+    return pi * this.diameter
+  }
+   set circumference(circumference){
     return pi * this.diameter
   }
   
