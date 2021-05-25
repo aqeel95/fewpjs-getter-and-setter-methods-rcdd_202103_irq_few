@@ -18,7 +18,7 @@ class Circle{
     return pi * this.diameter
   }
    set circumference(circumference){
-    return pi * this.diameter
+    return 
   }
   
   get area (){
