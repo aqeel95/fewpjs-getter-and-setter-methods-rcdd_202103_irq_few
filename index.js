@@ -9,7 +9,7 @@ class Circle{
   return  this.radius * 2
   }
 
-  set diameter(){
+  set diameter(diameter){
   return  this.radius * 2
   }
   
