@@ -8,7 +8,7 @@ class Circle{
   
   get circumference(){}
   
-  get diameter(){}
+  get area (){}
   
   
   
