@@ -13,7 +13,7 @@ class Circle{
   }
   
   get area (){
-    return Math.PI * this.radius
+    return Math.PI * this.radius.Math.pow(4, 0.5)
   }
   
   
