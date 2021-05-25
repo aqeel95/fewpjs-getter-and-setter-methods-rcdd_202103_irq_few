@@ -4,7 +4,8 @@ class Circle{
     this.radius=radius;
   }
   
-  get 
+  get diameter(){}
+  
   
   
 }
